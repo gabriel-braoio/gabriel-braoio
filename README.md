@@ -1,6 +1,6 @@
 # What's up? Welcome to my Blue World
 
-### Expanding from .NET development into DevOps and cloud infrastructure
+### From writing code to shipping and running it
 
 My name is Gabriel, and I'm a .NET developer migrating to DevOps. I'm from São Paulo, Brazil.
 
