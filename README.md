@@ -16,25 +16,25 @@ My name is Gabriel, and I'm a .NET developer migrating to DevOps. I'm from São 
 ## I code with
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
 ## Currently studying
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="Argo CD logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/terraform/terraform-original.svg" height="40" alt="Terraform logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/argocd/argocd-original.svg" height="40" alt="Argo CD logo" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/vim/vim-original.svg" height="40" alt="Vim logo" />
 </div>
 
 ## Let's connect
